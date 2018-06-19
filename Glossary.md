@@ -36,10 +36,6 @@ Automatic Repeat Request 自动重传请求
 
 Border gateway protocol 边界网关协议
 
-## CDMA
-
-Code Division Multiplex Access 码分多址
-
 ## CIDR
 
 Classless InterDomain Routing 无分类域间路由选择
@@ -72,6 +68,8 @@ Internet Group Management Protocol 网际组管理协议
 
 Maximum Transfer Unit 最大传送单元
 
+帧的数据部分的长度上限。
+
 ## NAT
 
 Internet Address Translation 网络地址转换
@@ -83,6 +81,8 @@ Open Systems Interconnection Reference Model 开放系统互连基本参考模�
 ## PPP
 
 Point-to-Point Protocol 点对点协议
+
+PPP协议就是用户计算机和ISP 进行通信时所使用的数据链路层协议。
 
 ## PPPoE
 
@@ -144,10 +144,20 @@ Code Division Multiple Access 码分多址
 
 Digital Subscriber Line 数字用户线
 
-## ADSL 
+## ADSL
 
 Asymmetric Digital Subscriber Line 非对称数字用户线
 
 ## DSLAM
 
 DSL Access Multiplexer 数字用户线接入复用器
+
+## CRC
+
+Cyclic Re dundancy Check 循环冗余检验
+
+## FCS
+
+Frame Check Sequence 帧检验序列
+
+为了进行检错而添加的冗余码
