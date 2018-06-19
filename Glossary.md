@@ -104,10 +104,6 @@ Simple Network Management protocol 简单网络管理协议
 
 Transmission Control Protocol 传输控制协议
 
-## TDM
-
-Time Division Multiplexing 时分复用
-
 ## URL
 
 Uniform Resource Locator 统一资源定位符
@@ -115,3 +111,43 @@ Uniform Resource Locator 统一资源定位符
 ## VPN
 
 Virtual Private Network 虚拟专用网
+
+## TDM
+
+Time Division Multiplexing 时分复用
+
+## FDM
+
+Frequency Division Multiplexing 频分复用
+
+## STDM
+
+Statistic Time Division Multiplexing 统计时分复用
+
+## WDM
+
+Wave length Division Multiplexing 波分复用
+
+## DWDM
+
+Dense Wave length Division Multiplexing 密集波分复用
+
+## CDM
+
+Code Division Multiplexing 码分复用
+
+## CDMA
+
+Code Division Multiple Access 码分多址
+
+## DSL
+
+Digital Subscriber Line 数字用户线
+
+## ADSL 
+
+Asymmetric Digital Subscriber Line 非对称数字用户线
+
+## DSLAM
+
+DSL Access Multiplexer 数字用户线接入复用器
