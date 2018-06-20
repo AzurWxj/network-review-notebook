@@ -167,3 +167,24 @@ Frame Check Sequence 帧检验序列
 Time To Live 生存时间
 
 数据报在网络中的寿命，单位是跳数
+
+## PING
+
+Packet InterNet Groper 分组网间探测
+测试两台主机的连通性。
+
+## IGP
+
+Interior Gateway Protocol 内部网关协议
+
+在一个自治系统内部使用的路由选择协议
+
+## EGP
+
+External Gateway Protocol 外部网关协议
+
+当数据报传到一个自治系统的边界时， 就需要使用一种协议将路由选择信息传递到另一个自治系统中。
+
+## NAPT
+
+Network Address and Port Translation 网络地址和端口号转换
