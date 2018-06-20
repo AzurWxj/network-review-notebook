@@ -161,3 +161,9 @@ Cyclic Re dundancy Check 循环冗余检验
 Frame Check Sequence 帧检验序列
 
 为了进行检错而添加的冗余码
+
+## TTL
+
+Time To Live 生存时间
+
+数据报在网络中的寿命，单位是跳数
